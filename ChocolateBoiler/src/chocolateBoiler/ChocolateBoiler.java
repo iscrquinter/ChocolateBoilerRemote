@@ -1,4 +1,4 @@
-package ChocolateBoiler;
+package chocolateBoiler;
  
 public class ChocolateBoiler {
 	private boolean empty;
